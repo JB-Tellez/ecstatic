@@ -1,0 +1,2 @@
+# ecstatic
+Static Heroku site
